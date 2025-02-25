@@ -10,6 +10,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 // 123
 //try for other
+//third one
 
 // Form submission handling
 document.getElementById('contact-form').addEventListener('submit', function (e) {
